@@ -12,6 +12,12 @@ Entitlement Database Builder
 
 If you get a "No Session Cookie" error try going to your "Account Settings" then try again
 
+## How do you protect my information
+None of the information has data linked to your account beyond a connection that can be made between the items, the order they are in, the purchase datetime, and your IP in the server logs. I defend against this in the following ways:
+- The purchase datetime is not stored.
+- The submission order is randomized before being added to the database
+- If a entry is already in the database it is ommited. Meaning not all items from your account are added within the randomized order of your entries.
+- All logs are cleared weekly
 
 ## Credits
 - Code is commented if it was pulled from somewhere else
