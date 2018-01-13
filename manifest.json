@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"name": "Entitlement Database Builder",
+	"version": "0.0.1",
+	"description": "Help build a community entitlement database",
+	"homepage_url": "https://github.com/Al-Azif/entitlement-database-builder",
+	"permissions": [
+		"tabs", "activeTab", "https://store.playstation.com/*", "http://psn.exposed/*"
+	],
+	"content_scripts": [{
+		"matches": ["https://store.playstation.com/*"],
+		"js": ["tingle/tingle.min.js"],
+		"css": ["tingle/tingle.min.css", "custom.min.css"]
+	}],
+	"page_action": {
+		"default_title": "Grab Entitlements",
+		"browser_style": true,
+		"default_icon": {
+			"32": "icons/icon-32.png",
+			"16": "icons/icon-16.png"
+		}
+	},
+	"background": {
+		"scripts": ["background.js"]
+	}
+}
