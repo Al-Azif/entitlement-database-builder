@@ -2,7 +2,7 @@ Entitlement Database Builder
 ===================
 
 ## How to
-1. Just install the XPI/ZIP to your browser (Found on [releases page](https://github.com/Al-Azif/entitlement-database-builder/releases]))
+1. Just install the XPI/ZIP to your browser (Found on [releases page](https://github.com/Al-Azif/entitlement-database-builder/releases))
     - Firefox: Use XPI
     - Chrome: Use ZIP
 2. Visit the [PlayStation Store](https://store.playstation.com)
