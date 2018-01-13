@@ -17,7 +17,7 @@ None of the information has data linked to your account beyond a connection that
 - The purchase datetime is not stored.
 - The submission order is randomized before being added to the database
 - If a entry is already in the database it is ommited. Meaning not all items from your account are added within the randomized order of your entries.
-- All logs are cleared weekly
+- All logs are cleared weekly. You're IP will only remain in a whitelist for accessing the database.
 
 ## Credits
 - Code is commented if it was pulled from somewhere else
