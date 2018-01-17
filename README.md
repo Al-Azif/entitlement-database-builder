@@ -7,7 +7,7 @@ Entitlement Database Builder
         - Click the XPI link found on the [releases page](https://github.com/Al-Azif/entitlement-database-builder/releases)
     - Chrome: Use ZIP
         - Download the ZIP
-        - Open your extension page ([chrome://extensions](chrome://extensions))
+        - Open your extension page ([`chrome://extensions`](chrome://extensions))
         - Drag the ZIP to the page
 2. Visit the [PlayStation Store](https://store.playstation.com)
 3. Sign in
