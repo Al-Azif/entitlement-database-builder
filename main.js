@@ -149,7 +149,7 @@ function main() {
             success_modal.close();
         });
         success_modal.addFooterBtn("Submit", "tingle-btn tingle-btn--primary tingle-btn--pull-right", function () {
-            upload("http://psn.exposed/submit", json);
+            upload("https://psn.exposed/submit", json);
             success_modal.close();
         });
         success_modal.addFooterBtn("Download", "tingle-btn tingle-btn--default tingle-btn--pull-right", function () {
