@@ -14,7 +14,9 @@ Entitlement Database Builder
 4. Click the icon that appeared in the address bar
 5. Download/Submit the file
 
-If you get a "No Session Cookie" error try going to your "Account Settings" then try again
+If you get a "No Session Cookie" error try going to your "Account Settings" then try again.
+
+Submissions are **NOT** mandatory, if you click download it will only offer a download for your computer, nothing will be uploaded.
 
 ## How do you protect my information
 None of the information has data linked to your account beyond a connection that can be made between the items, the order they are in, the purchase datetime, and your IP in the server logs. I defend against this in the following ways:
